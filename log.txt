@@ -1,0 +1,36 @@
+commit 68fdf419ff71e1a72580f3b5a1ee031c2a410f8b
+Merge: ec5302f 3a23691
+Author: katia <katya2008livk@gmail.com>
+Date:   Mon Oct 5 10:49:51 2026 -0700
+
+    Merge branch 'feature-b'
+
+commit ec5302fcf0c0f6b66e294a540c0fe9f78e214432
+Author: katia <katya2008livk@gmail.com>
+Date:   Mon Oct 5 10:47:16 2026 -0700
+
+    main: добавлено содержимое 5 строки
+
+commit 3a23691ccd14ed2cbf8bc26d8595e74ca9f45f2a
+Author: katia <katya2008livk@gmail.com>
+Date:   Mon Oct 5 10:32:32 2026 -0700
+
+    feature-b: добавлено содержимое 3 строки
+
+commit a9b7538765c5d0fdde98658d4aaaf3500266791a
+Author: katia <katya2008livk@gmail.com>
+Date:   Mon Oct 5 10:30:31 2026 -0700
+
+    feature-a: добавлено содержимое 4 строки
+
+commit ec5bc5987f4d8403685bfeb802a5ca60273048fb
+Author: katia <katya2008livk@gmail.com>
+Date:   Mon Oct 5 10:29:36 2026 -0700
+
+    feature-a: добавлено содержимое 3 строки
+
+commit 5ea5f7fbbf3178ac98ea057480c1ce6b01ebb41d
+Author: katia <katya2008livk@gmail.com>
+Date:   Mon Oct 5 10:27:24 2026 -0700
+
+    first commit
